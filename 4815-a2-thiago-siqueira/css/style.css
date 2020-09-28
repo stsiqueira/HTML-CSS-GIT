@@ -1,0 +1,30 @@
+html{
+    font-family: "Helvetica", sans-serif;
+    line-height: 1.5;
+}
+body{
+    background-color: lightcyan;
+}
+h1{
+    color: mediumvioletred;
+    font-size: 60px;
+    font-weight: normal;
+}
+h2{
+    color: #008285;
+}
+a{
+    color: #A32952;
+    text-decoration: none;
+}
+header, nav, main, footer{
+    background-color: white;
+
+}
+h1, h2{
+    border: darkturquoise solid 2px;
+}
+ul ul{
+    background-color: lemonchiffon;
+    font-family: cursive;
+}
